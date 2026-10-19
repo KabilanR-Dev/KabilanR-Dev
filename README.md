@@ -31,11 +31,11 @@ Comprehensive case studies documenting production-grade features, architecture d
 
 | Project | Focus Area | Tech Stack | Case Study Link |
 | :--- | :--- | :--- | :--- |
-| **Disease Dictionary** | Medical encyclopedia, 3D categories, TTS audio sheet & reels-style video | `Flutter` `Dart` `REST API` `TTS` | [📖 Read Case Study](https://github.com/Kabilan0624/disease-dictionary-case-study) |
-| **Agriculture Machinery** | Equipment catalog, purpose categories, audio narration & video feeds | `Flutter` `Dart` `Riverpod` `REST API` | [📖 Read Case Study](https://github.com/Kabilan0624/agriculture-machinery-case-study) |
-| **Teachraan (School ERP)** | Real-time classroom messaging, attendance tracking & student workflows | `Flutter` `Riverpod` `Firebase Firestore` | [📖 Read Case Study](https://github.com/Kabilan0624/teachraan-erp-case-study) |
-| **Bible Quiz App** | Timed quiz engine, scheduled attempts, instant answer review & analytics | `Flutter` `Riverpod` `Local Notifications` | [📖 Read Case Study](https://github.com/Kabilan0624/bible-quiz-app-case-study) |
-| **Bible App (Bible Lite)** | Structured reading plans, day-by-day checklists & vertical video reels | `Flutter` `GetX` `Video Player` `Notifications` | [📖 Read Case Study](https://github.com/Kabilan0624/bible-app-case-study) |
+| **Disease Dictionary** | Medical encyclopedia, 3D categories, TTS audio sheet & reels-style video | `Flutter` `Dart` `REST API` `TTS` | [📖 Read Case Study](https://github.com/KabilanR-Dev/disease-dictionary-case-study) |
+| **Agriculture Machinery** | Equipment catalog, purpose categories, audio narration & video feeds | `Flutter` `Dart` `Riverpod` `REST API` | [📖 Read Case Study](https://github.com/KabilanR-Dev/agriculture-machinery-case-study) |
+| **Teachraan (School ERP)** | Real-time classroom messaging, attendance tracking & student workflows | `Flutter` `Riverpod` `Firebase Firestore` | [📖 Read Case Study](https://github.com/KabilanR-Dev/teachraan-erp-case-study) |
+| **Bible Quiz App** | Timed quiz engine, scheduled attempts, instant answer review & analytics | `Flutter` `Riverpod` `Local Notifications` | [📖 Read Case Study](https://github.com/KabilanR-Dev/bible-quiz-app-case-study) |
+| **Bible App (Bible Lite)** | Structured reading plans, day-by-day checklists & vertical video reels | `Flutter` `GetX` `Video Player` `Notifications` | [📖 Read Case Study](https://github.com/KabilanR-Dev/bible-app-case-study) |
 
 ---
 
@@ -60,8 +60,8 @@ Comprehensive case studies documenting production-grade features, architecture d
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kabilan0624&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kabilan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabilan0624&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KabilanR-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Kabilan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabilanR-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
